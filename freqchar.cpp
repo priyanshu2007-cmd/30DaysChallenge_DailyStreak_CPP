@@ -18,6 +18,6 @@ int main() {
         }
     }
     cout<<"most frequent char"<<maxchar;
-    cout<<"It appears"<<maxcount<<"";
+    cout<<"It appears"<<maxcount<<"times";
     return 0;
 }
